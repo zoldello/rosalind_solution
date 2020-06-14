@@ -1,0 +1,11 @@
+Questions
+
+- What is a motif?
+    repeated intervals of DNA or protein of biological significance
+
+- What is repeat?
+    DNA that occurs multiple times
+
+- What is the most common repeat in humans?
+    ALU (~ 300 bp long)
+
